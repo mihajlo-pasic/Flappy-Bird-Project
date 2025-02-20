@@ -1,0 +1,15 @@
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.AssemblyReference.cache
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\MainWindow.baml
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\MainWindow.g.cs
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\App.g.cs
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird_MarkupCompile.cache
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.g.resources
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.cache
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+C:\Users\mihaj\Desktop\Fakultet\7. semestar\HCI\Projekat_B-Flappy_Bird\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
