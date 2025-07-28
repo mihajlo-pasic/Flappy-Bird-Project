@@ -46,7 +46,3 @@ Flappy Bird is a classic 2D game where the player controls a bird navigating thr
 - Add sound effects
 - Improve graphics with sprites
 - Add start screen and pause functionality
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
